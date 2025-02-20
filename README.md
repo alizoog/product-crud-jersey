@@ -1,6 +1,6 @@
 # Product CRUD API
 
-This project is a simple Product CRUD (Create, Read, Update, Delete) API built using Jersey and integrated with PostgreSQL. The repository name for this project is **product-crud-vue**.
+This project is a simple Product CRUD (Create, Read, Update, Delete) API built using ```Jersey Freamwork``` and integrated with PostgreSQL. The repository name for this project is **product-crud-vue**.
 
 ## Features
 - Create a new product
@@ -28,7 +28,7 @@ This project is a simple Product CRUD (Create, Read, Update, Delete) API built u
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/product-crud-vue.git
+   git clone https://github.com/alizoog/product-crud-jersey.git
    cd product-crud-vue
    ```
 2. Configure the database in `persistence.xml`:
